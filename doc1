@@ -89,6 +89,8 @@ H   => toggle hidden files
 '''sh
 <leader>fc => find file withsearch
 <leader>e  => toggle neotree
+
+U => redo/undo
 ```
 
 
