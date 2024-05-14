@@ -88,17 +88,17 @@ H   => toggle hidden files
 ## ⌨️ 'espace' is <leader> key 
 
 '''sh
-<leader>fc => find file withsearch
-<leader>e  => toggle neotree
+,leader, fc => find file withsearch
+,leader, e  => toggle neotree
 
-U => redo/undo
+U = redo/undo
 
-ALT+J  => shift line DOWN
-ALT+K  => shift line UP
+ALT+J  = shift line DOWN
+ALT+K  = shift line UP
 
-$ => move the cursor to the end of the line
-0 => move ################# start #######
-gcc => comment and uncomment
+$ = move the cursor to the end of the line
+0 = move ################# start #######
+gcc = comment and uncomment
 ```
 
 
