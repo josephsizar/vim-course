@@ -91,6 +91,9 @@ H   => toggle hidden files
 <leader>e  => toggle neotree
 
 U => redo/undo
+
+ALT+J  => shift line DOWN
+ALT+K  => shift line UP
 ```
 
 
