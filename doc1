@@ -96,6 +96,7 @@ ALT+J  => shift line DOWN
 ALT+K  => shift line UP
 
 $ => move the cursor to the end of the line
+0 => move '''''''''''''''''' start ''''''
 ```
 
 
