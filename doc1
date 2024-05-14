@@ -82,9 +82,14 @@ d   => delete options(y/n)
 r   => rename
 i   => file details
 H   => toggle hidden files
-
-
-
+```
+## default installed neovim is lazyvim
+## to toggle Neotree
+## ⌨️ 'espace' is <leader> key 
+'''sh
+<leader>fc => find file withsearch
+<leader>e  => toggle neotree
+```
 
 
 
