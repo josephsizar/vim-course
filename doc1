@@ -9,5 +9,15 @@ ciw
 ## chnaging the world
 ```sh
 :%s/currentword/replacerword/g   => g for global
-:%s/currentword/replacerword/
+:%s/currentword/replacerword/gc  => you will change with confirmation loop through all word and ask you (yes=y or no=n)
+```
+
+## visual or select in word
+```sh
+viw
+```
+## copy or yunk
+```sh
+y  => yunk = copy
+p => Past
 ```
