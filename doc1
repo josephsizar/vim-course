@@ -74,6 +74,9 @@ dd
 ?   => to see all the available commands there 🍝
 a   => to add file or folder (folder end with /)
 d   => delete options(y/n)
+r   => rename
+i   => file details
+H   => toggle hidden files
 
 
 
