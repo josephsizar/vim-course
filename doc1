@@ -29,3 +29,21 @@ p => Past
 ```sh
 "3p
 ```
+
+## if you want to copy some text to x register
+```sh
+v   => for select then select the wanted text to be registered
+"7y
+```
+
+## delete or remove text
+```sh
+v => and select it
+d => selete it
+```
+
+## copy to system clip board
+```sh
+v => select
+"+y
+```
