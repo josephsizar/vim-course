@@ -47,3 +47,25 @@ d => selete it
 v => select
 "+y
 ```
+
+## past the working file name
+```sh
+"+%+p
+```
+## copy the working file name to systme clip board
+```sh
+:let @+=@%
+```
+## duplicate the current line
+```sh
+yyp
+```
+## moving
+```sh
+w Move one word to the right
+b Move one word to the left
+```
+## delete current line
+```sh
+dd
+```
