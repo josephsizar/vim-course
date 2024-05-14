@@ -21,3 +21,11 @@ viw
 y  => yunk = copy
 p => Past
 ```
+## see the registered commands
+```sh
+:reg
+```
+## if you want past third 3 register
+```sh
+"3p
+```
