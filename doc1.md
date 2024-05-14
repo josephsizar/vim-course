@@ -86,6 +86,7 @@ H   => toggle hidden files
 ## default installed neovim is lazyvim
 ## to toggle Neotree
 ## ⌨️ 'espace' is <leader> key 
+
 '''sh
 <leader>fc => find file withsearch
 <leader>e  => toggle neotree
@@ -96,7 +97,7 @@ ALT+J  => shift line DOWN
 ALT+K  => shift line UP
 
 $ => move the cursor to the end of the line
-0 => move '''''''''''''''''' start ''''''
+0 => move ################# start #######
 gcc => comment and uncomment
 ```
 
