@@ -69,6 +69,11 @@ b Move one word to the left
 ```sh
 dd
 ```
+## toggle terminal in neovim 
+```sh
+ctrl+shift+-  => ctrl+_
+```
+
 ## in neotree plugin
 ```sh
 ?   => to see all the available commands there 🍝
