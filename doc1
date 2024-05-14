@@ -1,0 +1,13 @@
+## chnage in word
+```sh
+ciw
+```
+## replay the previous commnand
+```sh
+  .
+```
+## chnaging the world
+```sh
+:%s/currentword/replacerword/g   => g for global
+:%s/currentword/replacerword/
+```
