@@ -69,3 +69,21 @@ b Move one word to the left
 ```sh
 dd
 ```
+## in neotree plugin
+```sh
+?   => to see all the available commands there 🍝
+a   => to add file or folder (folder end with /)
+d   => delete options(y/n)
+
+
+
+
+
+
+
+
+
+
+
+
+
