@@ -87,7 +87,7 @@ H   => toggle hidden files
 ## to toggle Neotree
 ## ⌨️ 'espace' is <leader> key 
 
-'''sh
+```sh
 ,leader, fc => find file withsearch
 ,leader, e  => toggle neotree
 
